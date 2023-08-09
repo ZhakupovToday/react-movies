@@ -20,6 +20,7 @@ function Movie(props) {
           <img className="activator" alt="movie" src={poster} />
         )}
       </div>
+
       <div className="card-content">
         <span className="card-title activator grey-text text-darken-4">
           {title}
